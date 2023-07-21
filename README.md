@@ -3,7 +3,7 @@
 - i am a data analyst.
 - 🌱 I’m currently studying Cybersecurity ...
 - 💞️ I’m looking to collaborate on sharing progamming tips using python language.
-my tryhackme profile: https://tryhackme.com/p/elsiddik
+- my tryhackme profile: https://tryhackme.com/p/elsiddik .
 
 <!---
 z0uz/z0uz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
