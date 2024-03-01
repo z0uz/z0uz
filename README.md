@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @z0uz
 - 👀 I’m interested in python.
-- i am a data analyst.
-- 🌱 currently studying Cybersecurity ...
+- i am a Cybersecurity specialist and a data analyst.
 - 💞️ looking to collaborate on sharing progamming tips using python language.
 - my tryhackme profile: https://tryhackme.com/p/elsiddik .
 
