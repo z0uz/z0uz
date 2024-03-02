@@ -93,7 +93,3 @@ sec_dot()
 
 t.hideturtle()  # Hide the turtle for a cleaner look
 turtle.done()```
-<!---
-z0uz/z0uz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
