@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @z0uz
-- 👀 I’m interested in python.
-- i am a Cybersecurity specialist and a data analyst.
+ a Cybersecurity specialist and a data analyst.
 
 
 ```bash
