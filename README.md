@@ -1,53 +1,57 @@
-# Zaher El Siddik | Cybersecurity & Holochain Architect
+# Zaher El Siddik
 
-Seasoned cybersecurity professional and decentralized systems architect with deep expertise in **ISO 27001 compliance**, **ethical hacking**, and **AI-driven security solutions**. Focused on building resilient security frameworks for enterprise environments and pioneering agent-centric application architectures on the Holochain platform.
+**Cybersecurity & Holochain Architect**
+
+---
+
+Cybersecurity engineer and decentralized systems architect specializing in ISO 27001 compliance, ethical hacking, and AI-driven threat intelligence. Designing resilient security frameworks for enterprise environments while advancing agent-centric application architectures on the Holochain platform.
 
 ---
 
 ## Areas of Expertise
 
-- **Security Architecture** -- Enterprise security design, ISO 27001 implementation, risk assessment frameworks, and governance program development.
-- **Decentralized Applications (Holochain)** -- Agent-centric distributed system design, hApp development, and peer-to-peer networking protocols.
-- **AI Integration** -- Machine learning pipelines for threat detection, neural network-based malware classification, and anomaly detection systems.
-- **Scripting & Automation** -- Security tooling and infrastructure automation with Python, PowerShell, and Bash for offensive and defensive operations.
+| Domain | Focus |
+|--------|-------|
+| **Security Architecture** | Enterprise security design, ISO 27001 implementation, risk assessment, and governance frameworks |
+| **Decentralized Systems** | Holochain hApp development, agent-centric architecture, peer-to-peer protocol design |
+| **AI-Driven Security** | Neural network malware classification, anomaly detection, threat intelligence automation |
+| **Offensive Security** | Penetration testing, vulnerability assessment, red team operations |
 
 ---
 
-## Achievements
+## Technical Proficiencies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=z0uz&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Holochain-2C3A42?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0ibm9uZSIvPjwvc3ZnPg==&logoColor=white" alt="Holochain" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/ISO_27001-1A1A2E?style=for-the-badge" alt="ISO 27001" />
 </p>
 
 ---
 
 ## Current Initiatives
 
-- **Enterprise Holochain Applications** -- Designing and developing production-grade decentralized applications for identity management and secure data sharing in regulated industries.
-- **Neural Network Malware Detection** -- Training deep learning models for static and dynamic malware analysis, focusing on zero-day threat identification with reduced false-positive rates.
-- **Security Governance Programs** -- Building comprehensive security governance frameworks aligned with ISO 27001, NIST CSF, and CIS Controls for mid-to-large enterprises.
+**Enterprise Holochain Applications**
+Production-grade decentralized applications for identity management and secure data sharing in regulated industries.
+
+**Neural Network Malware Detection**
+Deep learning models for static and dynamic malware analysis, targeting zero-day threat identification with minimized false-positive rates.
+
+**Security Governance Frameworks**
+Comprehensive governance programs aligned with ISO 27001, NIST CSF, and CIS Controls for enterprise-scale adoption.
+
+**Open-Source Security Tooling**
+Building Python and Bash-based reconnaissance and analysis tools for the offensive security community.
 
 ---
 
-## Performance Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=z0uz&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=z0uz&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
-</p>
-
----
-
-## Skills Breakdown
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z0uz&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
-</p>
-
----
-
-## Activity Graph
+## Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=z0uz&theme=radical&area=true&hide_border=true" alt="Activity Graph" />
@@ -55,7 +59,7 @@ Seasoned cybersecurity professional and decentralized systems architect with dee
 
 ---
 
-## Connect & Collaborate
+## Contact
 
 <p align="center">
   <a href="https://linkedin.com/in/zaher-el-siddik">
@@ -63,7 +67,7 @@ Seasoned cybersecurity professional and decentralized systems architect with dee
   </a>
   &nbsp;&nbsp;
   <a href="https://elsiddik.com">
-    <img src="https://img.shields.io/badge/Website-elsiddik.com-141321?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/elsiddik.com-141321?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
 </p>
 
